@@ -13,19 +13,19 @@
     ],
     "background_color": "#4e0041",
     "theme_color": "#4e0041",
-    "main.css": "https://Shadowblazer93.github.io/SIERRAassets/css/main.db259ea9f9e318ed84cd.css",
-    "main.js": "https://Shadowblazer93.github.io/SIERRAassets/js/main.24dff250.bundle.js",
-    "main.png": "https://Shadowblazer93.github.io/SIERRAassets/images/join_icon.bca57eba9c33f5b3e9ebf44ee31cbde8.png",
-    "assets/css/764.db259ea9f9e318ed84cd.css": "https://Shadowblazer93.github.io/SIERRAassets/css/764.db259ea9f9e318ed84cd.css",
-    "assets/js/764.826d304a.bundle.js": "https://Shadowblazer93.github.io/SIERRAassets/js/764.826d304a.bundle.js",
-    "assets/images/join_icon.png": "https://Shadowblazer93.github.io/SIERRAassets/images/join_icon.bca57eba9c33f5b3e9ebf44ee31cbde8.png",
-    "public/favicon.ico": "https://Shadowblazer93.github.io/SIERRAfavicon.ico",
-    "index.html": "https://Shadowblazer93.github.io/SIERRAindex.html"
+    "main.css": "https://Shadowblazer93.github.io/SIERRA-DEMOassets/css/main.16baa3d9b04b4b097bdc.css",
+    "main.js": "https://Shadowblazer93.github.io/SIERRA-DEMOassets/js/main.79006bbc.bundle.js",
+    "main.png": "https://Shadowblazer93.github.io/SIERRA-DEMOassets/images/join_icon.bca57eba9c33f5b3e9ebf44ee31cbde8.png",
+    "assets/css/764.16baa3d9b04b4b097bdc.css": "https://Shadowblazer93.github.io/SIERRA-DEMOassets/css/764.16baa3d9b04b4b097bdc.css",
+    "assets/js/764.826d304a.bundle.js": "https://Shadowblazer93.github.io/SIERRA-DEMOassets/js/764.826d304a.bundle.js",
+    "assets/images/join_icon.png": "https://Shadowblazer93.github.io/SIERRA-DEMOassets/images/join_icon.bca57eba9c33f5b3e9ebf44ee31cbde8.png",
+    "public/favicon.ico": "https://Shadowblazer93.github.io/SIERRA-DEMOfavicon.ico",
+    "index.html": "https://Shadowblazer93.github.io/SIERRA-DEMOindex.html"
   },
   "entrypoints": [
-    "assets/css/764.db259ea9f9e318ed84cd.css",
+    "assets/css/764.16baa3d9b04b4b097bdc.css",
     "assets/js/764.826d304a.bundle.js",
-    "assets/css/main.db259ea9f9e318ed84cd.css",
-    "assets/js/main.24dff250.bundle.js"
+    "assets/css/main.16baa3d9b04b4b097bdc.css",
+    "assets/js/main.79006bbc.bundle.js"
   ]
 }
